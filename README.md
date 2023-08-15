@@ -1,1 +1,1 @@
-# regressions-from-scratch
+# projects
